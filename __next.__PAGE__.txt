@@ -1,0 +1,12 @@
+1:"$Sreact.fragment"
+2:I[93523,["/_next/static/chunks/f5dbffc2357b227a.js","/_next/static/chunks/513b3bd678f714ff.js","/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/bd2e597d157b65e7.js"],"SiteHeader"]
+3:I[52296,["/_next/static/chunks/f5dbffc2357b227a.js","/_next/static/chunks/513b3bd678f714ff.js","/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/bd2e597d157b65e7.js"],"HeroSection"]
+4:I[73704,["/_next/static/chunks/f5dbffc2357b227a.js","/_next/static/chunks/513b3bd678f714ff.js","/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/bd2e597d157b65e7.js"],"AboutSection"]
+5:I[12426,["/_next/static/chunks/f5dbffc2357b227a.js","/_next/static/chunks/513b3bd678f714ff.js","/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/bd2e597d157b65e7.js"],"ExpertiseSection"]
+6:I[41044,["/_next/static/chunks/f5dbffc2357b227a.js","/_next/static/chunks/513b3bd678f714ff.js","/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/bd2e597d157b65e7.js"],"ResearchSection"]
+7:I[49580,["/_next/static/chunks/f5dbffc2357b227a.js","/_next/static/chunks/513b3bd678f714ff.js","/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/bd2e597d157b65e7.js"],"ContactSection"]
+8:I[74172,["/_next/static/chunks/f5dbffc2357b227a.js","/_next/static/chunks/513b3bd678f714ff.js","/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/bd2e597d157b65e7.js"],"SiteFooter"]
+9:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+0:{"buildId":"jclxd2olQy6wL6FdEEcv1","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex min-h-screen flex-col bg-background","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-1","children":[["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}]]}],["$","$L8",null,{}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/ff1a16fafef87110.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/bd2e597d157b65e7.js","async":true}]],["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]]}],"loading":null,"isPartial":false}
+b:null
